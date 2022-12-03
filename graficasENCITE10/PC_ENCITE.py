@@ -12,9 +12,9 @@ x = np.arange(2)
 
 #valores prom en orden: [teórico, real]
 
-ps_p = [17.19, 18.84]
-pc_p = [16.83, 19.24]
-si_p = [18.23, 21.18]
+ps_p = [19.19, 20.84]
+pc_p = [21.83, 21.24]
+si_p = [20.23, 23.18]
 
 #valores sd en orden: [teórico, real]
 

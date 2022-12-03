@@ -12,10 +12,10 @@ import numpy as np
 x = np.arange(1)
 
 #promedios
-ps_p = 8.53
-pc_p = 5.24
-si_p = 4.97
-ref_p = 6.85
+ps_p = 10.53
+pc_p = 7.24
+si_p = 6.97
+ref_p = 8.85
 
 #desviación
 ps_sd = 0.32

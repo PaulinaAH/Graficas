@@ -13,10 +13,10 @@ x = np.arange(3)
 
 #valores prom en orden: Lig, Hem, Cel
 
-ps_p = [22.66, 9.65, 27.20]
-pc_p = [26.13, 11.59, 34.19]
-si_p = [43.49, 9.15, 32.37]
-ref_p = [41, 12, 11]
+ps_p = [24.66, 11.65, 29.20]
+pc_p = [28.13, 13.59, 36.19]
+si_p = [45.49, 11.15, 36.37]
+ref_p = [43, 14, 13]
 
 #valores sd en orden:Lig, Hem, Cel
 ps_sd = [2.16, 0.87, 0.77]
