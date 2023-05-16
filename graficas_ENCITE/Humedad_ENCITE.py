@@ -13,15 +13,15 @@ x = np.arange(2)
 
 
 #valores prom en orden: C H O N S
-ps_p = [8.95, 9.57]
-pc_p = [17.21, 10.94]
-si_p = [12.75, 9.05]
-ref_p = [11, 13]
+ps_p = [5, 9]
+pc_p = [1, 1]
+si_p = [5, 5]
+ref_p = [1, 3]
 
 #valores sd en orden: C H O N S
-ps_sd = [0.82, 0.06]
-pc_sd = [0.51, 0.05]
-si_sd = [0.79, 0.06]
+ps_sd = [0.2, 0.6]
+pc_sd = [0.1, 0.5]
+si_sd = [0.9, 0.6]
 
 width = 0.15
 
