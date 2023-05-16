@@ -12,15 +12,15 @@ import numpy as np
 x = np.arange(1)
 
 #promedios
-ps_p = 237.02
-pc_p = 215.69
-si_p = 319.10
-ref_p = 309
+ps_p = 23
+pc_p = 21
+si_p = 31
+ref_p = 30
 
 #desviación
 ps_sd = 8.00
-pc_sd = 12.12
-si_sd = 5.17
+pc_sd = 12
+si_sd = 17
 
 #gráfica
 plt.bar(x-1, height=ps_p, color='#E0E0E0', edgecolor = 'black', yerr = ps_sd, capsize = 5)
